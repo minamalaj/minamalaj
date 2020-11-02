@@ -3,6 +3,25 @@
 
 <br/>
 
+Hi, my name is Mina and I am a full-stack web developer with experience in React and Ruby frameworks. I am currently open to Software Engineering oppurtunities in London and remotely. 
+
+<img align="right" alt="GIF" src="https://giphy.com/gifs/code-watermelon-html-f3CtEsJ72j86DIumaJ" />
+
+## Currently Learning...
+
+- 🌱 I’m currently learning Swift. 
+-  📝 Taking a deep-dive into the quirks of Javascript. 
+
+## Projects
+
+- Pitch It is a community-driven and peer-reviewed database of football pitch locations worldwide. Suggest a site, or find a place to play the sport you love!
+This project demo is here: [Pitch It](https://www.loom.com/share/b6261839dcf148f4a549e1881100d7c7), have a look! The source code is available in my pinned repositories below.
+- Sobremesa is a language learning app developed to increase proficiency in Spanish speaking through various games and activities. 
+This project is live here: [Sobremesa](https://sobremesa.netlify.app/). The source code is available in my pinned repositories below.
+- Fund DMC is a banking application which facilitates and displays user transactions, and presents spend analytics. The source code is available in my pinned repositories below.
+
+## Connect with me
+If you would like to speak with me, **[send me a message on Linkedin](https://www.linkedin.com/in/mina-malaj/)**, or **[follow me on Twitter](https://twitter.com/MalajMina)**. Alternatively, you can **[follow my blog](https://medium.com/@mina.malaj/)**, where I post every Thursday on Javascript, and every Monday on Swift. 
 
 
 <a href="https://twitter.com/MalajMina">
@@ -12,34 +31,7 @@
 <img align="left" alt="Mina Malaj" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@mina.malaj">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<img align="left" alt="Mina Malaj" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br />
 
-<br />
-
-Hi, I'm 
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
-**Talking about Personal Stuffs:**
-
-- 🌱 I’m currently learning Swift. 
-- Taking a deep-dive into the quirks of Javascript. 
-- 📫 How to reach me: Any of the 
-- ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
-
-
-## Connect with me
-If you would like to speak with me, **[send me a message on Linkedin](https://www.linkedin.com/in/mina-malaj/)**, or **[follow me on Twitter](https://twitter.com/MalajMina)** 
-
-**Languages and Tools:**
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
