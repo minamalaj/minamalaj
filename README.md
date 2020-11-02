@@ -1,5 +1,5 @@
 
-### Come in!
+# Come in!
 
 Hi, my name is Mina and I am a full-stack web developer with experience in React and Ruby frameworks. I am currently open to Software Engineering oppurtunities in London and remotely. 
 
