@@ -21,13 +21,13 @@ If you would like to speak with me, **[send me a message on Linkedin](https://ww
 
 
 <a href="https://twitter.com/MalajMina">
-<img align="middle" alt="Mina Malaj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="right" alt="Mina Malaj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mina-malaj/">
-<img align="middle" alt="Mina Malaj" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="right" alt="Mina Malaj" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@mina.malaj">
-<img align="middle" alt="Mina Malaj" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<img align="right" alt="Mina Malaj" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br />
 
