@@ -14,7 +14,7 @@ Hi, my name is Mina and I am a full-stack web developer with experience in React
 This project demo is here: [Pitch It](https://www.loom.com/share/b6261839dcf148f4a549e1881100d7c7), have a look! The source code is available in my pinned repositories below.
 - Sobremesa is a language learning app developed to increase proficiency in Spanish speaking through various games and activities. 
 This project is live here: [Sobremesa](https://sobremesa.netlify.app/). The source code is available in my pinned repositories below.
-- Fund DMC is a banking application which facilitates and displays user transactions, and presents spend analytics. The source code is available in my pinned repositories below.
+- Fund DMC is a banking application which facilitates and displays user transactions, and presents spend analytics. This project is live here: [FUND-DMC](https://fund-dmc.herokuapp.com/). The source code is available in my pinned repositories below.
 
 ## Connect with me
 If you would like to speak with me, **[send me a message on Linkedin](https://www.linkedin.com/in/mina-malaj/)**, or **[follow me on Twitter](https://twitter.com/MalajMina)**. Alternatively, you can **[follow my blog](https://medium.com/@mina.malaj/)**, where I post every Thursday on Javascript, and every Monday on Swift. 
