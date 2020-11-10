@@ -5,7 +5,7 @@ Hi, my name is Mina and I am a full-stack web developer with experience in React
 
 ## Currently Learning...
 
-- 🌱 I’m currently learning Swift. 
+- 🌱 I am currently learning Swift. 
 -  📝 Taking a deep-dive into the quirks of Javascript. 
 
 ## Projects
