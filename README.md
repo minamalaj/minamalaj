@@ -17,7 +17,7 @@ This project is live here: [Sobremesa](https://sobremesa.netlify.app/). The sour
 - Fund DMC is a banking application which facilitates and displays user transactions, and presents spend analytics. This project is live here: [FUND-DMC](https://fund-dmc.herokuapp.com/). The source code is available in my pinned repositories below.
 
 ## Connect with me
-If you would like to speak with me, **[send me a message on Linkedin](https://www.linkedin.com/in/mina-malaj/)**, or **[follow me on Twitter](https://twitter.com/MalajMina)**. Alternatively, you can **[follow my blog](https://medium.com/@mina.malaj/)**, where I post every Thursday on Javascript, and every Monday on Swift. 
+If you would like to speak with me, **[send me a message on Linkedin](https://www.linkedin.com/in/mina-malaj/)**, or **[follow me on Twitter](https://twitter.com/MalajMina)**. Alternatively, you can **[follow my blog](https://medium.com/@mina.malaj/)**, where I post alternating Thursday's on Javascript, and every other Monday on Swift. 
 
 
 <a href="https://twitter.com/MalajMina">
