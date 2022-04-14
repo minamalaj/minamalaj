@@ -1,11 +1,10 @@
 
 # Come in!
 
-Hi, my name is Mina and I am a full-stack web developer with experience in React and Ruby frameworks. I am currently open to Software Engineering oppurtunities in London and remotely. 
+Hi, my name is Mina and I am a full-stack web developer with experience in Javascript, React, Node.js and SQL.
 
 ## Currently Learning...
 
-- 🌱 I am currently learning Swift. 
 -  📝 Taking a deep-dive into the quirks of Javascript. 
 
 ## Projects
